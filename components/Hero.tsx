@@ -86,7 +86,7 @@ const Hero: React.FC = () => {
                   but user asked to use their CV info. Since I cannot extract the image directly, 
                   I will use a high quality placeholder that fits the vibe. */}
               <img 
-                src="https://picsum.photos/seed/alfonso/800/800" 
+                src="./assets/cv-image.png" 
                 alt="Alfonso Martin Garay" 
                 className="w-full h-full object-cover"
               />
